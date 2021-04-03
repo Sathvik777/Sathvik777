@@ -9,21 +9,27 @@
   </a>
 </div>
 
-
 ------------
+
 <h2>Check out my free time ML projects</h2>
 
 * [Hemgissa](https://hemgissa.se/) : Web interface to Estimate appartment prices in Sweden
 
+------------
 
+<div style={border-style: dotted;}>
+  <img align="right" src="https://media.giphy.com/media/3UBa2cTg7NDA4/giphy.gif" alt="drawing" width="200" height="200">
+  <h2 align="left" > Making AIs happy and healthy 🤖</h2>
+</div>
 
 ------------
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik777&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">
-  Black Lives Matter. <a href="https://support.eji.org/give/153413/#!/donation/checkout" target="_blank">Support the Equal Justice Initiative</a>
-</h3>
+<div>
+  <h3 align="center">
+    Black Lives Matter. <a href="https://support.eji.org/give/153413/#!/donation/checkout" target="_blank">Support the Equal Justice Initiative</a>
+  </h3>
 
-<h3 align="center">
-  Stop Asian Hate. <a href="https://stopaapihate.org/actnow/" target="_blank"> Report Incidents </a>
-</h3>
+  <h3 align="center">
+    Stop Asian Hate. <a href="https://stopaapihate.org/actnow/" target="_blank"> Report Incidents </a>
+  </h3>
+</div>
