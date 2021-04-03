@@ -11,3 +11,11 @@
 
 ------------
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik777&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">
+  Black Lives Matter. <a href="https://support.eji.org/give/153413/#!/donation/checkout" target="_blank">Support the Equal Justice Initiative</a>
+</h3>
+
+<h3 align="center">
+  Stop Asian Hate. <a href="https://stopaapihate.org/actnow/" target="_blank"> Report Incidents </a>
+</h3>
