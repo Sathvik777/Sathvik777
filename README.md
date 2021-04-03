@@ -3,7 +3,7 @@
 <!--
 -->
 <div>
-  Listen to my show on Spotify 💻
+  <h2>Listen to my show on Spotify 💻 </h2>
   <a href="https://open.spotify.com/show/3VlNqhk2ltdJ91EVgu62TN?si=ICr7Nw6sTWGImzyzwvvC2A">
   <img src="https://images.vexels.com/media/users/3/137413/isolated/preview/4acb8e52632aa9b7c874b878eaf02bc4-spotify-icon-logo-by-vexels.png" alt="drawing" width="50" height="50"/>
   </a>
