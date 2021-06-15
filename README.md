@@ -14,6 +14,7 @@
 <h2>Check out my free time ML projects</h2>
 
 * [Hemgissa](https://hemgissa.se/) : Web interface to Estimate appartment prices in Sweden
+* [Carbon-Trace](https://github.com/Sathvik777/Carbon-Trace/) : Green house gas emission estimator for Swedish grocery markets
 
 * **MLHub**: Click, click, Klack and boom your model is up and runinng! [IN-PROGRESS]
 ------------
