@@ -21,10 +21,6 @@
 
 <div>
   <h3 align="center">
-    Black Lives Matter. <a href="https://support.eji.org/give/153413/#!/donation/checkout" target="_blank">Support the Equal Justice Initiative</a>
-  </h3>
-
-  <h3 align="center">
-    Stop Asian Hate. <a href="https://stopaapihate.org/actnow/" target="_blank"> Report Incidents </a>
+   <a href="https://www.digitalocean.com/?refcode=70fcc861a668&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" /></a>
   </h3>
 </div>
